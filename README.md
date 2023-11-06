@@ -1,1 +1,3 @@
-# chat-serverless
+# affordable-openai
+
+openai api reverse proxy
